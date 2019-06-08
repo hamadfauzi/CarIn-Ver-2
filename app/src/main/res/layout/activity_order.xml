@@ -33,8 +33,6 @@
         android:layout_alignParentEnd="true"
         android:background="@color/colorBackground"
         app:menu="@menu/navigation_bar_items"
-        android:outlineAmbientShadowColor="@android:color/white"
-        android:outlineSpotShadowColor="@android:color/white"
         app:itemTextColor="@android:color/white"
         android:layout_height="wrap_content">
 
